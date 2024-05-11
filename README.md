@@ -38,6 +38,8 @@
 
 - 📫 How to reach me **younus.ahamed17@gmail.com**
 
+- 📝 Checkout my [resume](https://drive.google.com/file/d/1bJWIdAPC5wV-_faNpyk591NJDMSGrXjX/view?usp=sharing).
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
