@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/badge/codeforces-white?style=flat&logo=codeforces&logoColor=%23e6393f&labelColor=lightseagreen&color=gray" />
 </a>
 
-
 <a href="https://www.hackerrank.com/profile/shuvo14051">
     <img src="https://img.shields.io/badge/HackerRank-green?style=flat&logo=hackerrank&logoColor=white&labelColor=green&color=%2325A162" alt="HackerRank" />
 </a>
@@ -22,9 +21,26 @@
 <a href="https://www.researchgate.net/profile/Md-Younus-Ahamed">
     <img src="https://img.shields.io/badge/ResearchGate-blue?style=flat&logo=researchgate&logoColor=white&labelColor=blue&color=%2340D3F7" alt="ResearchGate" />
 </a>
-
-
 </p>
+
+
+#### 🚀 About Me
+- 🎓 I'm pursuing a PhD in Computer Science focusing on Digital Health at West Virginia University.
+- 🌱 I'm currently fulfilling roles as both a Graduate Teaching Assistant and a Graduate Research Assistant.
+
+#### Now
+
+- 🔭 I’m currently working on [Transformer Based Menstrual Cycle Classification](https://github.com/shuvo14051/menstrual-cycle-prediction)
+
+- 🌱 I’m currently learning **Transformers, Large Language Models**
+
+- 👯 I’m looking to collaborate on Machine Learning, Deep Learning.
+
+- 👨‍💻 All of my projects are available at [https://zzamanasad1.wixsite.com/portfolio/portfolio](https://zzamanasad1.wixsite.com/portfolio/portfolio)
+
+- 📝 I regularly write articles on [https://acmcoder.blogspot.com/](https://acmcoder.blogspot.com/)
+
+- 📫 How to reach me **younus.ahamed17@gmail.com**
 
 
 ### 🤝🏻 &nbsp;Connect with Me
@@ -50,6 +66,7 @@
 <a href="https://scholar.google.com/citations?user=X2xlTEAAAAAJ&hl=en" target="_blank">
     <img src="https://img.shields.io/badge/google_scholar-red?style=flat&logo=google&logoColor=red&labelColor=blue&color=%231DA1F2"/>
 </a>
+
 
 </p>
 
