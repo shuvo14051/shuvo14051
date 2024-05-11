@@ -1,19 +1,31 @@
-### Hi there 👋 I am Ahamed!!
+## <h1 align="center"> Hi there 👋 I am Ahamed!! </h1>
 
-<!--
-**shuvo14051/shuvo14051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A dedicated researcher and problem solver passionate about technology, machine learning, and coding, striving to innovate and make meaningful contributions.</h3>
+<p align="center">
+<a href="https://leetcode.com/u/shuvostp/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white&labelColor=orange&color=gray" alt="LeetCode" />
+</a>
 
-Here are some ideas to get you started:
+<a href="https://codeforces.com/profile/shuvostp">
+    <img src="https://img.shields.io/badge/codeforces-white?style=flat&logo=codeforces&logoColor=%23e6393f&labelColor=lightseagreen&color=gray" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://www.hackerrank.com/profile/shuvo14051">
+    <img src="https://img.shields.io/badge/HackerRank-green?style=flat&logo=hackerrank&logoColor=white&labelColor=green&color=%2325A162" alt="HackerRank" />
+</a>
+
+<a href="https://judge.beecrowd.com/en/profile/463012">
+    <img src="https://img.shields.io/badge/URI_Online_Judge-brightgreen?style=flat&logo=c&logoColor=white&labelColor=gray&color=%232386FF" alt="URI Online Judge" />
+</a>
+
+<a href="https://www.researchgate.net/profile/Md-Younus-Ahamed">
+    <img src="https://img.shields.io/badge/ResearchGate-blue?style=flat&logo=researchgate&logoColor=white&labelColor=blue&color=%2340D3F7" alt="ResearchGate" />
+</a>
+
+
+</p>
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
