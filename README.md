@@ -39,8 +39,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/google_scholar-red?style=flat&logo=google&logoColor=red&labelColor=blue&color=%231DA1F2"/>
 </a>
 
-
-
 </p>
 
 
