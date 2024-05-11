@@ -36,10 +36,6 @@
 
 - 👯 I’m looking to collaborate on Machine Learning, Deep Learning.
 
-- 👨‍💻 All of my projects are available at [https://zzamanasad1.wixsite.com/portfolio/portfolio](https://zzamanasad1.wixsite.com/portfolio/portfolio)
-
-- 📝 I regularly write articles on [https://acmcoder.blogspot.com/](https://acmcoder.blogspot.com/)
-
 - 📫 How to reach me **younus.ahamed17@gmail.com**
 
 
