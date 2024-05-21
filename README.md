@@ -102,11 +102,11 @@
 
 
 <a href="https://github.com/shuvo14051" target="_blank">
-    <img src="https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white&labelColor=black&color=blue" />
+    <img src="https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white&labelColor=black&color=black" />
 </a>
 
 <a href="https://scholar.google.com/citations?user=X2xlTEAAAAAJ&hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/google_scholar-red?style=flat&logo=google&logoColor=red&labelColor=blue&color=%231DA1F2"/>
+    <img src="https://img.shields.io/badge/google_scholar-red?style=flat&logo=google&logoColor=red&labelColor=black&color=%231DA1F2"/>
 </a>
 
 
