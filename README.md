@@ -31,7 +31,7 @@
 
 #### Now
 
-- 🔭 I’m currently working on [GoTabPFN] (https://github.com/zadid6pretam/GOTabPFN/tree/main)
+- 🔭 I’m currently working on [GoTabPFN](https://github.com/zadid6pretam/GOTabPFN/tree/main)
 
 - 🌱 I’m currently learning **Transformers, Large Language Models**
 
