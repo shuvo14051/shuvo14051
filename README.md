@@ -31,7 +31,7 @@
 
 #### Now
 
-- 🔭 I’m currently working on [Transformer Based Menstrual Cycle Classification](https://github.com/shuvo14051/menstrual-cycle-prediction)
+- 🔭 I’m currently working on [GoTabPFN] (https://github.com/zadid6pretam/GOTabPFN/tree/main)
 
 - 🌱 I’m currently learning **Transformers, Large Language Models**
 
