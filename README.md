@@ -1,5 +1,4 @@
-## <h1 align="center"> Hi there 👋 I am <a href = "https://shuvo14051.github.io/portfolio/" target = "_blank">Ahamed</a> !! </h1>
-
+## <h1 align="center"> Hi there 👋 I am <a href = "https://community.wvu.edu/~ma00087/" target = "_blank">Ahamed</a> !! </h1>
 
 <h3 align="center">A dedicated researcher and problem solver passionate about technology, machine learning, and coding, striving to innovate and make meaningful contributions.</h3>
 <p align="center">
