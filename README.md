@@ -30,15 +30,15 @@
 
 #### Now
 
-- 🔭 I’m currently working on [GoTabPFN](https://github.com/zadid6pretam/GOTabPFN/tree/main)
+- 🔭 I’m currently working on 3 projects for CVPR.
 
 - 🌱 I’m currently learning **Transformers, Large Language Models**
 
-- 👯 I’m looking to collaborate on Machine Learning, Deep Learning.
+- 👯 I’m looking to collaborate on **High-Dimensional Learning, Foundation Models (Tabular and Time Series), Multimodal Learning, and Large Language Models (LLMs).**
 
 - 📫 How to reach me **younus.ahamed17@gmail.com**
 
-- 📝 Checkout my [resume](https://drive.google.com/file/d/1bJWIdAPC5wV-_faNpyk591NJDMSGrXjX/view?usp=sharing).
+- 📝 Checkout my [resume](https://community.wvu.edu/~ma00087/cv.pdf).
 
 
 ###
